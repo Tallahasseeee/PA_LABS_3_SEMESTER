@@ -1,0 +1,16 @@
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\Lab5PA.exe
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\Lab5PA.deps.json
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\Lab5PA.runtimeconfig.json
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\Lab5PA.runtimeconfig.dev.json
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\Lab5PA.dll
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\ref\Lab5PA.dll
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\bin\Debug\net5.0\Lab5PA.pdb
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.csproj.AssemblyReference.cache
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.AssemblyInfoInputs.cache
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.AssemblyInfo.cs
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.csproj.CoreCompileInputs.cache
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.dll
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\ref\Lab5PA.dll
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.pdb
+C:\Users\STRIX\source\repos\Lab5PA\Lab5PA\obj\Debug\net5.0\Lab5PA.genruntimeconfig.cache
