@@ -1,0 +1,16 @@
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\PALab5.exe
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\PALab5.deps.json
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\PALab5.runtimeconfig.json
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\PALab5.runtimeconfig.dev.json
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\PALab5.dll
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\ref\PALab5.dll
+C:\Users\STRIX\source\repos\PALab5\PALab5\bin\Release\net5.0\PALab5.pdb
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.csproj.AssemblyReference.cache
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.AssemblyInfoInputs.cache
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.AssemblyInfo.cs
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.csproj.CoreCompileInputs.cache
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.dll
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\ref\PALab5.dll
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.pdb
+C:\Users\STRIX\source\repos\PALab5\PALab5\obj\Release\net5.0\PALab5.genruntimeconfig.cache
